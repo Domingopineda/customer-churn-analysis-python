@@ -75,12 +75,18 @@ The analysis answers the following business questions:
 ## Repository Structure
 
 ```text
-customer-churn-analysis/
-│
-├── data/
-├── notebooks/
-├── images/
-├── README.md
+Churn_Rate_Customer_Profiles_Dashboard.png
+Churn_percentage.png
+Complaints_vs_churn.png
+Customer Churn.csv
+age_group.png
+charge_amount.png
+customer_value.png
+main.py
+second_of_use.png
+subscription_length.png
+top_10_.png
+README.md
 ```
 
 ---
